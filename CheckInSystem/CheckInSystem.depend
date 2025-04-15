@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1743272603 source:c:\users\sive\documents\codeblocks\checkinsystem\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<ctime>
+	<cmath>
+	<iomanip>
+
